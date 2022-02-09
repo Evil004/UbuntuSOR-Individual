@@ -1,0 +1,13 @@
+OU=Departamentos.Donde se almacenaran los equipos, usuarios, etc. de cada departamento
+OU=Enfermaria,OU=Departamentos.Donde se almacenaran los equipos, usuarios, etc. del departamento Enfermaria
+OU=Equipos,OU=Enfermaria,OU=Departamentos.Equipos de Enfermaria
+OU=Usuarios,OU=Enfermaria,OU=Departamentos.Usuarios de Enfermaria
+OU=Argeologia,OU=Departamentos.Donde se almacenaran los equipos, usuarios, etc. del departamento Argeologia
+OU=Equipos,OU=Argeologia,OU=Departamentos.Equipos de Argeologia
+OU=Usuarios,OU=Argeologia,OU=Departamentos.Usuarios de Argeologia
+OU=Informatica,OU=Departamentos.Donde se almacenaran los equipos, usuarios, etc. del departamento Informatica
+OU=Equipos,OU=Informatica,OU=Departamentos.Equipos de Informatica
+OU=Usuarios,OU=Informatica,OU=Departamentos.Usuarios de Informatica
+OU=Comunicacion y prensa,OU=Departamentos.Donde se almacenaran los equipos, usuarios, etc. del departamento Comunicacion y prensa
+OU=Equipos,OU=Comunicacion y prensa,OU=Departamentos.Equipos de Comunicacion y prensa
+OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos.Usuarios de Comunicacion y prensa
