@@ -1,6 +1,6 @@
 #!/bin/bash
 
-while IFS=: read -r Name FirstName LastName account Dni Delegation Departament Computer Enabled Password TurnPassDays Change email Shell PathUser
+while IFS=: read -r Name FirstName LastName account Dni Delegation Departament Computer Enabled Password TurnPassDays Change email Shell PathUser Group
 do
         echo $Name
 	pathUO="$PathUser"
@@ -8,7 +8,8 @@ do
         echo "Crando a $account en $pathUO"
 
         samba-tool user create $account $Password --must-change-at-next-login --userou="$pathUO" --home-directory="/home/$account" --given-name="$Name" --surname="$FirstName $LastName" --mail="$email" --department="$Departament" --login-shell="$Shell"
-        
+
+	samba-tool group addmembers $Group $account
 
 
         echo "\n"
