@@ -1,0 +1,15 @@
+MIRIAM:JUAN:PUJOL:MJUANP:12345697-T:Gandia:Enfermeria:W10HG-1:S:Caminas01:15:S:MJUANP@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Enfermeria,OU=Departamentos
+IGNACIO:CHAVES:JUAN:ICHAVESJ:12345698-U:Gandia:Enfermeria:W10HG-2:S:Caminas01:15:S:ICHAVESJ@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Enfermeria,OU=Departamentos
+LAURA:ALBA:ALABAU:LALBAA:12345699-V:Gandia:Enfermeria:W10HG-3:S:Caminas01:15:S:LALBAA@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Enfermeria,OU=Departamentos
+JORGE:CARVALHO:GOMIS:JCARVALHOG:12345700-W:Gandia:Argeologia:W10HG-4:S:Caminas01:7:S:JCARVALHOG@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Argeologia,OU=Departamentos
+ANTONIO:ALABAU:VALENCIA:AALABAUV:12345701-X:Gandia:Argeologia:W10HG-5:S:Caminas01:7:S:AALABAUV@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Argeologia,OU=Departamentos
+CLAUDIO:GOMIS:CAMPOS:CGOMISC:12345702-Y:Gandia:Argeologia:W10HG-6:S:Caminas01:7:S:CGOMISC@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Argeologia,OU=Departamentos
+SUSANA:VALENCIA:MONCHO:SVALENCIAM:12345703-Z:Gandia:Argeologia:W10HG-7:S:Caminas01:7:S:SVALENCIAM@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Argeologia,OU=Departamentos
+PEDRO:CHAVES:ALABAU:PCHAVESA:12345704-A:Gandia:Informatica:UDHG-1:S:Caminas01:7:S:PCHAVESA@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Informatica,OU=Departamentos
+PIEDAD:ALBA:GOMIS:PALBAG:12345705-B:Gandia:Informatica:UDHG-2:S:Caminas01:7:S:PALBAG@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Informatica,OU=Departamentos
+MANUEL:CARVALHO:VALENCIA:MCARVALHOV:12345706-C:Gandia:Informatica:UDHG-3:S:Caminas01:7:S:MCARVALHOV@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Informatica,OU=Departamentos
+JAVIER:CAMPOS:VARGAS:JCAMPOSV:12345707-D:Gandia:Informatica:UDHG-4:S:Caminas01:7:S:JCAMPOSV@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Informatica,OU=Departamentos
+EVA:MONCHO:CARVALHO:EMONCHOC:12345708-E:Gandia:Comunicacion y prensa:UDHG-5:S:Caminas01:15:S:EMONCHOC@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos
+RODRIGO:CHAVES:CAMPOS:RCHAVESC:12345709-F:Gandia:Comunicacion y prensa:UDHG-6:S:Caminas01:15:S:RCHAVESC@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos
+JOHANN:ALBA:CHAVES:JALBAC:12345710-G:Gandia:Comunicacion y prensa:UDHG-7:S:Caminas01:15:S:JALBAC@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos
+BENITO:APARICIO:ROJALES:BAPARICIOR:12345711-H:Gandia:Comunicacion y prensa:UDHG-8:S:Caminas01:15:S:BAPARICIOR@gandia.san-gva.es:/bin/bash:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos
