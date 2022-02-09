@@ -8,8 +8,7 @@ do
         echo "Crando a $account en $pathUO"
 
         samba-tool user create $account $Password --must-change-at-next-login --userou="$pathUO" --home-directory="/home/$account" --given-name="$Name" --surname="$FirstName $LastName" --mail="$email" --department="$Departament" --login-shell="$Shell"
-        #echo "samba-tool user create $account $Password --must-change-at-next-login --userou=$pathUO --home-directory=/home/$account --given-name=$Name --surname=$FirstName $LastName --mail=$email --departament=$Departament --login-shell=$Shell"
-
+        
 
 
         echo "\n"
