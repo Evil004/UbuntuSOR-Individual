@@ -1,14 +1,4 @@
 #!/bin/bash
-echo -n "introduce el nombre del equipo: "
-read var1
-echo -n "introduce el dominio sin el sufijo: "
-read var2
-echo -n "introduce el sufijo: "
-read var3
-
-pathDomain=",DC=$var2,DC=$var3"
-
-
 
 while IFS=. read -r col1 col2
 do
